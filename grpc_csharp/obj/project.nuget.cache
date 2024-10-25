@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MXBp/o7+P8=",
+  "success": true,
+  "projectFilePath": "/Users/neo_xtream/grpc/grpc_csharp/grpc_csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/neo_xtream/.nuget/packages/google.protobuf/3.28.3/google.protobuf.3.28.3.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/grpc.core.api/2.66.0/grpc.core.api.2.66.0.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/grpc.net.client/2.66.0/grpc.net.client.2.66.0.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/grpc.net.common/2.66.0/grpc.net.common.2.66.0.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/grpc.tools/2.67.0/grpc.tools.2.67.0.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/neo_xtream/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
